@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Daily 1 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 171,
+      "y": 69,
+      "z": -1551
+    },
+    "nodes": [
+      "171, 69, -1551"
+    ]
+  },
+  {
+    "name": "Daily 2 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -268,
+      "y": 67,
+      "z": -1375
+    },
+    "nodes": [
+      "-268, 67, -1375"
+    ]
+  },
+  {
+    "name": "Daily 3 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -660,
+      "y": 106,
+      "z": -1236
+    },
+    "nodes": [
+      "-660, 106, -1236"
+    ]
+  },
+  {
+    "name": "Daily 4 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 42,
+      "y": 32,
+      "z": -2230
+    },
+    "nodes": [
+      "42, 32, -2230"
+    ]
+  },
+  {
+    "name": "Daily 5 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -529,
+      "y": 76,
+      "z": -1711
+    },
+    "nodes": [
+      "-529, 76, -1711"
+    ]
+  },
+  {
+    "name": "Daily 6 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 1403,
+      "y": 42,
+      "z": -1549
+    },
+    "nodes": [
+      "1403, 42, -1549"
+    ]
+  },
+  {
+    "name": "Daily 7 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -204,
+      "y": 74,
+      "z": -643
+    },
+    "nodes": [
+      "-204, 74, -643"
+    ]
+  },
+  {
+    "name": "Daily 8 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -907,
+      "y": 55,
+      "z": -3271
+    },
+    "nodes": [
+      "-907, 55, -3271"
+    ]
+  },
+  {
+    "name": "Daily 9 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -1256,
+      "y": 43,
+      "z": -4458
+    },
+    "nodes": [
+      "-1256, 43, -4458"
+    ]
+  },
+  {
+    "name": "Daily 10 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 1095,
+      "y": 63,
+      "z": -2652
+    },
+    "nodes": [
+      "1095, 63, -2652"
+    ]
+  },
+  {
+    "name": "Daily 11 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -542,
+      "y": 71,
+      "z": -1458
+    },
+    "nodes": [
+      "-542, 71, -1458"
+    ]
+  },
+  {
+    "name": "Daily 12 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -1334,
+      "y": 54,
+      "z": -5111
+    },
+    "nodes": [
+      "-1334, 54, -5111"
+    ]
+  },
+  {
+    "name": "Daily 13 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -2102,
+      "y": 59,
+      "z": -4846
+    },
+    "nodes": [
+      "-2102, 59, -4846"
+    ]
+  },
+  {
+    "name": "Daily 14 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -818,
+      "y": 76,
+      "z": -957
+    },
+    "nodes": [
+      "-818, 76, -957"
+    ]
+  },
+  {
+    "name": "Daily 15 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 143,
+      "y": 52,
+      "z": -5393
+    },
+    "nodes": [
+      "143, 52, -5393"
+    ]
+  },
+  {
+    "name": "Daily 16 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -454,
+      "y": 88,
+      "z": -5567
+    },
+    "nodes": [
+      "-454, 88, -5567"
+    ]
+  },
+  {
+    "name": "Daily 17 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -620,
+      "y": 6,
+      "z": -5571
+    },
+    "nodes": [
+      "-620, 6, -5571"
+    ]
+  },
+  {
+    "name": "Daily 18 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -1234,
+      "y": 35,
+      "z": -3083
+    },
+    "nodes": [
+      "-1234, 35, -3083"
+    ]
+  },
+  {
+    "name": "Daily 19 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 1559,
+      "y": 86,
+      "z": -5500
+    },
+    "nodes": [
+      "1559, 86, -5500"
+    ]
+  },
+  {
+    "name": "Daily 20 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 1483,
+      "y": 133,
+      "z": -5446
+    },
+    "nodes": [
+      "1483, 133, -5446"
+    ]
+  },
+  {
+    "name": "Daily 21 - Festival of Heroes Scavenger Hunt",
+    "color": "#FFD700",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 772,
+      "y": 129,
+      "z": -4930
+    },
+    "nodes": [
+      "772, 129, -4930"
+    ]
+  },
+  {
+    "name": "Week 1-1 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF8C00",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 1211,
+      "y": 175,
+      "z": -2256
+    },
+    "nodes": [
+      "1211, 175, -2256"
+    ]
+  },
+  {
+    "name": "Week 1-2 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF8C00",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -264,
+      "y": 37,
+      "z": -967
+    },
+    "nodes": [
+      "-264, 37, -967"
+    ]
+  },
+  {
+    "name": "Week 1-3 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF8C00",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 1005,
+      "y": 72,
+      "z": -1937
+    },
+    "nodes": [
+      "1005, 72, -1937"
+    ]
+  },
+  {
+    "name": "Week 2-1 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF8C00",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -910,
+      "y": 33,
+      "z": -2166
+    },
+    "nodes": [
+      "-910, 33, -2166"
+    ]
+  },
+  {
+    "name": "Week 2-2 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF8C00",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -534,
+      "y": 56,
+      "z": -437
+    },
+    "nodes": [
+      "-534, 56, -437"
+    ]
+  },
+  {
+    "name": "Week 2-3 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF8C00",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -1186,
+      "y": 88,
+      "z": -4486
+    },
+    "nodes": [
+      "-1186, 88, -4486"
+    ]
+  },
+  {
+    "name": "Week 3-1 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF8C00",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -1694,
+      "y": 163,
+      "z": -3355
+    },
+    "nodes": [
+      "-1694, 163, -3355"
+    ]
+  },
+  {
+    "name": "Week 3-2 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF8C00",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 1535,
+      "y": 114,
+      "z": -5386
+    },
+    "nodes": [
+      "1535, 114, -5386"
+    ]
+  },
+  {
+    "name": "Week 3-3 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF8C00",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -63,
+      "y": 95,
+      "z": -4313
+    },
+    "nodes": [
+      "-63, 95, -4313"
+    ]
+  },
+  {
+    "name": "Bonus 1 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -425,
+      "y": 29,
+      "z": -1983
+    },
+    "nodes": [
+      "-425, 29, -1983"
+    ]
+  },
+  {
+    "name": "Bonus 2 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 879,
+      "y": 120,
+      "z": -1225
+    },
+    "nodes": [
+      "879, 120, -1225"
+    ]
+  },
+  {
+    "name": "Bonus 3 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 213,
+      "y": 69,
+      "z": -1857
+    },
+    "nodes": [
+      "213, 69, -1857"
+    ]
+  },
+  {
+    "name": "Bonus 4 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 845,
+      "y": 67,
+      "z": -4208
+    },
+    "nodes": [
+      "845, 67, -4208"
+    ]
+  },
+  {
+    "name": "Bonus 5 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 920,
+      "y": 203,
+      "z": -5031
+    },
+    "nodes": [
+      "920, 203, -5031"
+    ]
+  },
+  {
+    "name": "Bonus 6 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 764,
+      "y": 16,
+      "z": -4748
+    },
+    "nodes": [
+      "764, 16, -4748"
+    ]
+  },
+  {
+    "name": "Bonus 7 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -772,
+      "y": 91,
+      "z": -1008
+    },
+    "nodes": [
+      "-772, 91, -1008"
+    ]
+  },
+  {
+    "name": "Bonus 8 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -1755,
+      "y": 37,
+      "z": -2365
+    },
+    "nodes": [
+      "-1755, 37, -2365"
+    ]
+  },
+  {
+    "name": "Bonus 9 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": 705,
+      "y": 24,
+      "z": -5568
+    },
+    "nodes": [
+      "705, 24, -5568"
+    ]
+  },
+  {
+    "name": "Bonus 10 - Festival of Heroes Scavenger Hunt",
+    "color": "#FF1493",
+    "icon": "chest",
+    "visibility": "always",
+    "location": {
+      "x": -840,
+      "y": 8,
+      "z": -2524
+    },
+    "nodes": [
+      "-840, 8, -2524"
+    ]
+  }
+]
